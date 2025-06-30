@@ -66,8 +66,3 @@ Madison, J. (2025). *Josh Madison M&M Milk Chocolate Color Counts Dataset* [Data
 ## License
 
 All contents of this repository — including digitized data and R scripts — are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-For full legal terms, see the [`LICENSE`](LICENSE.txt) file.
