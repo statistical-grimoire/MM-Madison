@@ -58,7 +58,7 @@ Madison, J. (2025). *Josh Madison M&M Milk Chocolate Color Counts Dataset* [Data
   title        = {Josh Madison {M\&M} Milk Chocolate Color Counts Dataset},
   year         = {2025},
   organization = {GitHub},
-  url          = {https://github.com/statistical-grimoire/book/tree/main/data/MM-candy},
+  url          = {https://github.com/statistical-grimoire/MM-Madison},
   note         = {Data set}
 }
 ```
